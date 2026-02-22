@@ -1,0 +1,2 @@
+-e .
+# automatically triggered there, in setup.py..maps there in the setup.py
